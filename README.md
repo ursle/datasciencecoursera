@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This repo is created for the datascientis's toolbox course project.
+This repo is created for "The Data Scientist's Toolbox" course project.
